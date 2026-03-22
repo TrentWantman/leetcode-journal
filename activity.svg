@@ -1,18 +1,24 @@
-<svg width="710" height="115" xmlns="http://www.w3.org/2000/svg">
-<rect width="710" height="115" fill="#0a0a0a" rx="6"/>
+<svg width="697" height="115" xmlns="http://www.w3.org/2000/svg">
+<rect width="697" height="115" fill="#0a0a0a" rx="6"/>
 <text x="4" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Mar</text>
-<text x="30" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Apr</text>
-<text x="82" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">May</text>
-<text x="147" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jun</text>
-<text x="199" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jul</text>
-<text x="251" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Aug</text>
-<text x="316" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Sep</text>
-<text x="368" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Oct</text>
-<text x="420" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Nov</text>
-<text x="485" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Dec</text>
-<text x="537" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jan</text>
-<text x="602" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Feb</text>
-<text x="654" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Mar</text>
+<text x="17" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Apr</text>
+<text x="69" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">May</text>
+<text x="134" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jun</text>
+<text x="186" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jul</text>
+<text x="238" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Aug</text>
+<text x="303" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Sep</text>
+<text x="355" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Oct</text>
+<text x="407" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Nov</text>
+<text x="472" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Dec</text>
+<text x="524" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jan</text>
+<text x="589" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Feb</text>
+<text x="641" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Mar</text>
+<rect x="4" y="20" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="4" y="33" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="4" y="46" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="4" y="59" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="4" y="72" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="4" y="85" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="4" y="98" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="17" y="20" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="17" y="33" width="11" height="11" fill="#161b16" rx="2"/>
@@ -364,18 +370,12 @@
 <rect x="654" y="72" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="654" y="85" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="654" y="98" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="667" y="20" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="667" y="20" width="11" height="11" fill="#00401a" rx="2"/>
 <rect x="667" y="33" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="667" y="46" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="667" y="59" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="667" y="72" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="667" y="85" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="667" y="98" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="680" y="20" width="11" height="11" fill="#00401a" rx="2"/>
-<rect x="680" y="33" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="680" y="46" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="680" y="59" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="680" y="72" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="680" y="85" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="680" y="98" width="11" height="11" fill="#00ff41" rx="2"/>
+<rect x="667" y="98" width="11" height="11" fill="#00ff41" rx="2"/>
+<rect x="680" y="20" width="11" height="11" fill="#161b16" rx="2"/>
 </svg>
