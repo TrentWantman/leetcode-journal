@@ -16,4 +16,4 @@
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array | [C++](solutions/0213-house-robber-ii.cpp) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | Array | [C++](solutions/0238-product-of-array-except-self.cpp) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | Two Pointers | [C++](solutions/0647-palindromic-substrings.cpp) |
-| 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium | Dynamic Programming | [Python](solutions/2771-longest-non-decreasing-subarray-from-two-arrays.py) |
+| 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium | Dynamic Programming | [C++](solutions/2771-longest-non-decreasing-subarray-from-two-arrays.cpp) |
