@@ -1,7 +1,7 @@
 // 36. Valid Sudoku
 // Medium | Array
 // https://leetcode.com/problems/valid-sudoku/description/
-// Time: O(N^2) | Space: O(N)
+// Time: O(n^2) | Space: O(n)
 
 class Solution {
 public:
