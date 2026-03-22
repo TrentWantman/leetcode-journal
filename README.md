@@ -10,7 +10,7 @@
 
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|-----------|-------|----------|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers | [Python](solutions/0005-longest-palindromic-substring.py) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers | [C++](solutions/0005-longest-palindromic-substring.cpp) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | Array | [C++](solutions/0036-valid-sudoku.cpp) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Dynamic Programming | [C++](solutions/0198-house-robber.cpp) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array | [C++](solutions/0213-house-robber-ii.cpp) |
