@@ -2,9 +2,9 @@
 
 ![Activity](activity.svg)
 
-**27** solved | **1** day streak | **27** this month
+**28** solved | **1** day streak | **28** this month
 
-**10** Easy | **16** Medium | **1** Hard
+**10** Easy | **17** Medium | **1** Hard
 
 ---
 
@@ -20,6 +20,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | Array | [C++](solutions/0036-valid-sudoku.cpp) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Two Pointers | [C++](solutions/0042-trapping-rain-water.cpp) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | [C++](solutions/0049-group-anagrams.cpp) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array | [C++](solutions/0056-merge-intervals.cpp) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [C++](solutions/0104-maximum-depth-of-binary-tree.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Sliding Window | [C++](solutions/0121-best-time-to-buy-and-sell-stock.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [C++](solutions/0125-valid-palindrome.cpp) |
