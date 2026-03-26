@@ -2,14 +2,15 @@
 
 ![Activity](activity.svg)
 
-**26** solved | **2** day streak | **26** this month
+**27** solved | **1** day streak | **27** this month
 
-**9** Easy | **16** Medium | **1** Hard
+**10** Easy | **16** Medium | **1** Hard
 
 ---
 
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|-----------|-------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | Array | [C++](solutions/0001-two-sum.cpp) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [C++](solutions/0001-two-sum.cpp) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window | [C++](solutions/0003-longest-substring-without-repeating-characters.cpp) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers | [C++](solutions/0005-longest-palindromic-substring.cpp) |
