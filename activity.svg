@@ -13,9 +13,6 @@
 <text x="524" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Jan</text>
 <text x="589" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Feb</text>
 <text x="641" y="12" fill="#4a4a4a" font-family="Arial,sans-serif" font-size="10">Mar</text>
-<rect x="4" y="20" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="4" y="33" width="11" height="11" fill="#161b16" rx="2"/>
-<rect x="4" y="46" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="4" y="59" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="4" y="72" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="4" y="85" width="11" height="11" fill="#161b16" rx="2"/>
@@ -378,4 +375,7 @@
 <rect x="667" y="85" width="11" height="11" fill="#161b16" rx="2"/>
 <rect x="667" y="98" width="11" height="11" fill="#006628" rx="2"/>
 <rect x="680" y="20" width="11" height="11" fill="#006628" rx="2"/>
+<rect x="680" y="33" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="680" y="46" width="11" height="11" fill="#161b16" rx="2"/>
+<rect x="680" y="59" width="11" height="11" fill="#00401a" rx="2"/>
 </svg>
