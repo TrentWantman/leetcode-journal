@@ -1,22 +1,20 @@
 // 1. Two Sum
 // Easy | Array
-// https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/description/
 // Time: O(n) | Space: O(n)
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int> hash;
-        for(int i = 0; i < nums.size(); i++){
-            hash[nums[i]] = i;
-        }
-        
+        unordered_map<int, int> set;
         for (int i = 0; i < nums.size(); i++){
-            int index2 = target - nums[i];
-            if (hash.count(index2) && hash[index2] != i){
-                return {i, hash[index2]};
+            if(set.count(target - nums[i])){
+                return {set[target - nums[i]], i};
+            }
+            else{
+                set[nums[i]] = i;
             }
         }
-        return {};
+        return {0,0};
     }
 };
