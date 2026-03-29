@@ -1,26 +1,26 @@
 // 242. Valid Anagram
 // Easy | Hash Table
-// https://leetcode.com/problems/valid-anagram/
-// Time: O(n) | Space: O(1)
+// leetcode.com/problems/valid-anagram
+// Time: O(n) | Space: O(n)
 
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.length() != t.length()){
-            return false;
+        if (s.size() != t.size())
+            return 0;
+        vector<int> alphabet(26, 0);
+
+        for(int i = 0; i < s.size(); i++){
+            alphabet[s[i] - 'a'] += 1;
+            alphabet[t[i] - 'a'] -= 1;
         }
 
-        vector<int> a(26, 0);
-
-        for (int i = 0; i < s.length(); i++){
-            a[s[i]-'a']++;
-            a[t[i]-'a']--;
-        }
-        for (int x : a){
-            if (x != 0){
+        for (int a : alphabet){
+            if (a != 0){
                 return false;
             }
         }
+
         return true;
     }
 };
