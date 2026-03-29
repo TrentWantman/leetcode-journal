@@ -2,9 +2,9 @@
 
 ![Activity](activity.svg)
 
-**55** solved | **5** day streak | **55** this month
+**56** solved | **5** day streak | **56** this month
 
-**18** Easy | **36** Medium | **1** Hard
+**18** Easy | **37** Medium | **1** Hard
 
 ---
 
@@ -24,6 +24,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [C++](solutions/0020-valid-parentheses.cpp) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | Array | [C++](solutions/0036-valid-sudoku.cpp) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Two Pointers | [C++](solutions/0042-trapping-rain-water.cpp) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=voxa048v) | Medium | Array | [C++](solutions/0049-group-anagrams-2.cpp) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | [C++](solutions/0049-group-anagrams.cpp) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array | [C++](solutions/0056-merge-intervals.cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math | [C++](solutions/0070-climbing-stairs.cpp) |
