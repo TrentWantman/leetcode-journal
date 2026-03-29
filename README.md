@@ -2,9 +2,9 @@
 
 ![Activity](activity.svg)
 
-**57** solved | **5** day streak | **57** this month
+**59** solved | **5** day streak | **59** this month
 
-**18** Easy | **38** Medium | **1** Hard
+**18** Easy | **40** Medium | **1** Hard
 
 ---
 
@@ -46,6 +46,7 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List | [C++](solutions/0206-reverse-linked-list.cpp) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Depth-First Search | [C++](solutions/0207-course-schedule.cpp) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array | [C++](solutions/0213-house-robber-ii.cpp) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Array | [C++](solutions/0215-kth-largest-element-in-an-array.cpp) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array | [C++](solutions/0217-contains-duplicate.cpp) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy | Tree | [C++](solutions/0226-invert-binary-tree.cpp) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1959408341/) | Medium | Array | [C++](solutions/0238-product-of-array-except-self-2.cpp) |
@@ -53,6 +54,7 @@
 | 242 | [Valid Anagram](leetcode.com/problems/valid-anagram) | Easy | Hash Table | [C++](solutions/0242-valid-anagram-2.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table | [C++](solutions/0242-valid-anagram.cpp) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Array | [C++](solutions/0271-encode-and-decode-strings.cpp) |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/1963218244/?envType=problem-list-v2&envId=voxa048v) | Medium | Array | [C++](solutions/0300-longest-increasing-subsequence.cpp) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/?envType=problem-list-v2&envId=voxa048v) | Medium | Array | [C++](solutions/0322-coin-change.cpp) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | [C++](solutions/0347-top-k-frequent-elements-2.cpp) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | [C++](solutions/0347-top-k-frequent-elements.cpp) |
