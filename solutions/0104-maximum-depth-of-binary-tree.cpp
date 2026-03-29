@@ -1,7 +1,7 @@
 // 104. Maximum Depth of Binary Tree
 // Easy | Tree
 // https://leetcode.com/problems/maximum-depth-of-binary-tree/
-// Time: O(n) | Space: O(1)
+// Time: O(1) | Space: O(1)
 
 /**
  * Definition for a binary tree node.
@@ -14,23 +14,15 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        int level = 0;
-        stack<pair<TreeNode*, int>> stk;
-        stk.push({root, 1});
 
-        while(!stk.empty()){
-            pair<TreeNode*, int> stk_pair = stk.top();
-            stk.pop();
-            if (stk_pair.first != nullptr){
-                level = max(stk_pair.second, level);
-                stk.push({stk_pair.first->left, stk_pair.second + 1});
-                stk.push({stk_pair.first->right, stk_pair.second + 1});
-            }
+    
+    int maxDepth(TreeNode* root) {
+        if (!root){
+            return 0;
         }
-        return level;
+        int depth = 1 + max(maxDepth(root->left), maxDepth(root->right));
+        return depth;
     }
 };
