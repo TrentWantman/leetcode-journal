@@ -2,9 +2,9 @@
 
 ![Activity](activity.svg)
 
-**56** solved | **5** day streak | **56** this month
+**57** solved | **5** day streak | **57** this month
 
-**18** Easy | **37** Medium | **1** Hard
+**18** Easy | **38** Medium | **1** Hard
 
 ---
 
@@ -57,6 +57,7 @@
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | [C++](solutions/0347-top-k-frequent-elements-2.cpp) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | [C++](solutions/0347-top-k-frequent-elements.cpp) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Sliding Window | [C++](solutions/0424-longest-repeating-character-replacement.cpp) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/?envType=problem-list-v2&envId=voxa048v) | Medium | Array | [C++](solutions/0435-non-overlapping-intervals.cpp) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree | [C++](solutions/0543-diameter-of-binary-tree.cpp) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Tree | [C++](solutions/0572-subtree-of-another-tree.cpp) |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Array | [C++](solutions/0622-design-circular-queue.cpp) |
