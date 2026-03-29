@@ -1,43 +1,50 @@
 // 15. 3Sum
 // Medium | Array
 // https://leetcode.com/problems/3sum/
-// Time: O(n) | Space: O(n)
+// Time: O(n^2) | Space: O(n)
 
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        
         vector<vector<int>> res;
-        sort(nums.begin(), nums.end());
+        int l;
+        int r;
 
-        for (int i = 0; i < nums.size(); i++){
+        sort(nums.begin, nums.end);
 
-            if (i > 0 && nums[i] == nums[i-1]) continue;
+        for (int i = 0; i < nums.size(); i++;){
+            if (i > 0 && nums[i] != nums[i-1]){
+                continue;
+            }
 
-            int l = i + 1;
-            int r = nums.size() -1;
+            l = i+1;
+            r = nums.size()-1;
 
             while(l < r){
-                
-                int temp = nums[i] + nums[l] + nums[r];
-
-                if (temp == 0){
-                    
-                    vector<int> triplets = {nums[i], nums[l], nums[r]};
-                    res.push_back(triplets);
-
-                    while (l < r && nums[l] == nums[l+1]) l++; // skip duplicate l
-                    while (l < r && nums[r] == nums[r-1]) r--; // skip duplicate r
-                    l++;
-                    r--;
+                if(nums[i] + nums[l] + nums[r] == 0){
+                    res.push_back({nums[i], nums[l], nums[r]});
+                    while(l+1 < nums.size() && nums[l] != nums[l+1]) l++;
+                    while(r-1 >= 0 && nums[r] != nums[r-1]) r--;
+                    if (l+1 < nums.size(){
+                        l++;
+                    }
+                    if (r-1 >= 0{
+                        r--;
+                    }
                 }
-                else if(temp > 0){
-                    r--;
+                else if(nums[i] + nums[l] + nums[r] > 0){
+                    if (r-1 >= 0{
+                        r--;
+                    }
                 }
                 else{
-                    l++;
+                    if (l+1 < nums.size(){
+                        l++;
+                    }
                 }
+               
             }
+        
         }
         return res;
     }
