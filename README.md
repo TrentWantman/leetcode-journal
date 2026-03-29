@@ -2,9 +2,9 @@
 
 ![Activity](activity.svg)
 
-**54** solved | **5** day streak | **54** this month
+**55** solved | **5** day streak | **55** this month
 
-**18** Easy | **35** Medium | **1** Hard
+**18** Easy | **36** Medium | **1** Hard
 
 ---
 
@@ -53,6 +53,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table | [C++](solutions/0242-valid-anagram.cpp) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Array | [C++](solutions/0271-encode-and-decode-strings.cpp) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/?envType=problem-list-v2&envId=voxa048v) | Medium | Array | [C++](solutions/0322-coin-change.cpp) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | [C++](solutions/0347-top-k-frequent-elements-2.cpp) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | [C++](solutions/0347-top-k-frequent-elements.cpp) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Sliding Window | [C++](solutions/0424-longest-repeating-character-replacement.cpp) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree | [C++](solutions/0543-diameter-of-binary-tree.cpp) |
