@@ -1,29 +1,24 @@
 // 20. Valid Parentheses
-// Easy | Stack
+// Easy | String
 // https://leetcode.com/problems/valid-parentheses/
-// Time: O(n) | Space: O(n)
+// Time: O(n) | Space: O(1)
 
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> character_stack;
-        unordered_map<char, char> openers;
-        openers['{'] = '}';
-        openers['('] = ')';
-        openers['['] = ']';
-
-        for (char character : s){
-            
-            if (openers.count(character)){
-                character_stack.push(character);
+        unordered_map<char, char> chars1 = {{'{', '}'}, {'[', ']'}, {'(', ')'}};
+        stack<char> openOrder;
+        for (char c : s){
+            if (chars1.count(c)){
+                openOrder.push(c);
             }
-            else if (character_stack.empty() || openers[character_stack.top()] != character) {
+            else if (openOrder.empty() || c !=  chars1[openOrder.top()]){
                 return false;
             }
             else{
-                character_stack.pop();
+                openOrder.pop();
             }
         }
-        return character_stack.empty();
+        return openOrder.empty();
     }
 };
